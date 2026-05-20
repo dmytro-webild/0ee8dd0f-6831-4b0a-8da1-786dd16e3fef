@@ -66,7 +66,7 @@ export default function LandingPage() {
           handle: "@alice",
           testimonial: "Exceptional service! They made our home shine.",
           rating: 5,
-          imageSrc: "http://img.b2bpic.net/free-photo/close-up-portrait-professional-housekeeper-uniform-yellow-rubber-gloves-spraying-cleaner-you_171337-18302.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/close-up-portrait-professional-housekeeper-uniform-yellow-rubber-gloves-spraying-cleaner-you_171337-18302.jpg?_wi=1",
           imageAlt: "professional cleaning service worker",
         },
         {
@@ -74,7 +74,7 @@ export default function LandingPage() {
           handle: "@bob",
           testimonial: "Very professional pest control. No chemicals, all safe.",
           rating: 5,
-          imageSrc: "http://img.b2bpic.net/free-photo/medium-shot-people-cleaning-building_23-2150454517.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/medium-shot-people-cleaning-building_23-2150454517.jpg?_wi=1",
           imageAlt: "professional cleaning service worker",
         },
         {
@@ -82,7 +82,7 @@ export default function LandingPage() {
           handle: "@chloe",
           testimonial: "The best cleaning team in town. Highly recommend.",
           rating: 5,
-          imageSrc: "http://img.b2bpic.net/free-photo/formwork-paper-cup_23-2148889837.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/formwork-paper-cup_23-2148889837.jpg?_wi=1",
           imageAlt: "professional cleaning service worker",
         },
         {
@@ -90,7 +90,7 @@ export default function LandingPage() {
           handle: "@dave",
           testimonial: "Prompt and effective. Great eco-conscious company.",
           rating: 5,
-          imageSrc: "http://img.b2bpic.net/free-photo/woman-realtor-looking-house-plans-together-while-wearing-medical-masks_23-2148895452.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/woman-realtor-looking-house-plans-together-while-wearing-medical-masks_23-2148895452.jpg?_wi=1",
           imageAlt: "professional cleaning service worker",
         },
         {
@@ -98,7 +98,7 @@ export default function LandingPage() {
           handle: "@eve",
           testimonial: "Reliable and thorough. Will definitely book again.",
           rating: 5,
-          imageSrc: "http://img.b2bpic.net/free-photo/arrangement-disinfecting-products-desk_23-2148848549.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/arrangement-disinfecting-products-desk_23-2148848549.jpg?_wi=1",
           imageAlt: "professional cleaning service worker",
         },
       ]}
@@ -108,7 +108,7 @@ export default function LandingPage() {
           href: "#contact",
         },
       ]}
-      imageSrc="http://img.b2bpic.net/free-photo/close-up-portrait-professional-housekeeper-uniform-yellow-rubber-gloves-spraying-cleaner-you_171337-18302.jpg"
+      imageSrc="http://img.b2bpic.net/free-photo/close-up-portrait-professional-housekeeper-uniform-yellow-rubber-gloves-spraying-cleaner-you_171337-18302.jpg?_wi=2"
       avatars={[
         {
           src: "http://img.b2bpic.net/free-photo/professional-cleaning-service-people-working-together-office_23-2150520610.jpg",
@@ -154,7 +154,7 @@ export default function LandingPage() {
           title: "Years Experience",
         },
       ]}
-      imageSrc="http://img.b2bpic.net/free-photo/medium-shot-people-cleaning-building_23-2150454517.jpg"
+      imageSrc="http://img.b2bpic.net/free-photo/medium-shot-people-cleaning-building_23-2150454517.jpg?_wi=2"
       mediaAnimation="slide-up"
       metricsAnimation="blur-reveal"
     />
@@ -171,21 +171,21 @@ export default function LandingPage() {
           title: "Eco Cleaning",
           description: "Safe for kids, pets, and our planet.",
           tag: "Cleaning",
-          imageSrc: "http://img.b2bpic.net/free-photo/formwork-paper-cup_23-2148889837.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/formwork-paper-cup_23-2148889837.jpg?_wi=2",
         },
         {
           id: "2",
           title: "Pest Control",
           description: "Effective, organic, and long-lasting treatments.",
           tag: "Pest",
-          imageSrc: "http://img.b2bpic.net/free-photo/woman-realtor-looking-house-plans-together-while-wearing-medical-masks_23-2148895452.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/woman-realtor-looking-house-plans-together-while-wearing-medical-masks_23-2148895452.jpg?_wi=2",
         },
         {
           id: "3",
           title: "Deep Sanitization",
           description: "Hospital-grade cleaning for residential and commercial.",
           tag: "Sanitize",
-          imageSrc: "http://img.b2bpic.net/free-photo/arrangement-disinfecting-products-desk_23-2148848549.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/arrangement-disinfecting-products-desk_23-2148848549.jpg?_wi=2",
         },
       ]}
       title="Comprehensive Care"
